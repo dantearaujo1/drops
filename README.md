@@ -5,7 +5,7 @@
 
 ![MIT](https://img.shields.io/github/license/drops/Front.svg)
 ![issues](https://img.shields.io/github/issues/drops/Front.svg)
-![Esp32](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=arduino&logoColor=F7DF1E)
+![Esp32](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 # Drops
 
